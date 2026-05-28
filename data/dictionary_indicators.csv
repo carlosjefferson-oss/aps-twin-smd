@@ -1,0 +1,19 @@
+nome_original,nome_curto,dimensao,nivel,polaridade,meta
+Health improvement marketing,Marketing em saúde,Gestão e comunicação,Municipal,maior_melhor,0.70
+Prospecting for external resources,Captação de recursos externos,Gestão e financiamento,Municipal,maior_melhor,20
+Community health maintainers,Mantenedores comunitários da saúde,Participação social,Municipal,maior_melhor,1
+Redistribution of internal resources,Redistribuição de recursos internos,Gestão e recursos,Municipal,maior_melhor,0.003
+Internships in technology and health,Estágios em tecnologia e saúde,Formação e inovação,Municipal,maior_melhor,1
+Allocation of budget amendments to PHC,Emendas orçamentárias para APS,Financiamento,Municipal,maior_melhor,1
+Technological instrumentation,Instrumentação tecnológica,Tecnologia e inovação,Municipal,maior_melhor,1
+Leadership skill development,Desenvolvimento de liderança,Gestão de pessoas,Municipal,maior_melhor,1
+Training in management and technology,Capacitação em gestão e tecnologia,Aprendizagem organizacional,Municipal,maior_melhor,1
+Partnerships with universities and research institutes,Parcerias com universidades e pesquisa,Integração ensino-serviço,Municipal,maior_melhor,1
+Areas visited by Endemic Disease Agents,Áreas visitadas por agentes de endemias,Vigilância territorial,Municipal,maior_melhor,1
+Quality audit assessment,Auditoria da qualidade,Qualidade e avaliação,Municipal,maior_melhor,1
+Productivity per staff member,Produtividade por profissional,Operacional,UBS,maior_melhor,0.80
+Number of visits by CHWs/Health teams,Visitas de ACS/equipes,Território,UBS,maior_melhor,0.60
+Quality of visits by Endemic Disease Agents,Qualidade das visitas dos agentes de endemias,Vigilância territorial,UBS,maior_melhor,0.80
+Quality of care by CHWs,Qualidade do cuidado pelos ACS,Qualidade assistencial,UBS,maior_melhor,0.80
+Coverage of testing and endemic programs,Cobertura de testagem e programas endêmicos,Vigilância e prevenção,UBS,maior_melhor,0.70
+Ongoing ergonomics,Ergonomia contínua,Condições de trabalho,UBS,maior_melhor,0.70
